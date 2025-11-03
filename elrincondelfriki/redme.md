@@ -9,10 +9,14 @@
 
 ## Captura
 
-Coloca una captura representativa en `assets/screenshot.png` para que aparezca aquí:
 
 
-![Screenshot del sitio](https://raw.githubusercontent.com/hevieri/Wordpress-back-up/main/elrincondelfriki/img/screenshot.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/hevieri/Wordpress-back-up/main/elrincondelfriki/img/rincon.png">
+    <img src="https://raw.githubusercontent.com/hevieri/Wordpress-back-up/main/elrincondelfriki/img/rincon.png" width="800" alt="Captura del sitio">
+  </a>
+</p>
+
 
 
 
